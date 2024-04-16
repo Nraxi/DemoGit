@@ -12,6 +12,7 @@
 
             Console.WriteLine("Hello, Carl här igen!");
             Console.WriteLine("Hello, Olle här!");
+            Console.WriteLine("OLLE FÖRSTÖR ");
         }
     }
 }
