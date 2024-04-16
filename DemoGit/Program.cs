@@ -17,6 +17,8 @@
             Console.WriteLine("Hello, Carl här igen!");
 
             Console.WriteLine("Add branch EM");
+            Console.WriteLine("Add test3 EM");
+
 
         }
     }
